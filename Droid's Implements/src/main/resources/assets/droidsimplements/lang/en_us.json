@@ -1,0 +1,45 @@
+{
+  "item.droidsimplements.wooden_dagger" : "Wooden Dagger",
+  "item.droidsimplements.golden_dagger" : "Golden Dagger",
+  "item.droidsimplements.stone_dagger" : "Stone Dagger",
+  "item.droidsimplements.iron_dagger" : "Iron Dagger",
+  "item.droidsimplements.diamond_dagger" : "Diamond Dagger",
+  "item.droidsimplements.netherite_dagger" : "Netherite Dagger",
+
+  "item.droidsimplements.wooden_warhammer" : "Wooden Warhammer",
+  "item.droidsimplements.golden_warhammer" : "Golden Warhammer",
+  "item.droidsimplements.stone_warhammer" : "Stone Warhammer",
+  "item.droidsimplements.iron_warhammer" : "Iron Warhammer",
+  "item.droidsimplements.diamond_warhammer" : "Diamond Warhammer",
+  "item.droidsimplements.netherite_warhammer" : "Netherite Warhammer",
+
+  "item.droidsimplements.wooden_club" : "Wooden Club",
+  "item.droidsimplements.golden_club" : "Golden Club",
+  "item.droidsimplements.stone_club" : "Stone Club",
+  "item.droidsimplements.iron_club" : "Iron Club",
+  "item.droidsimplements.diamond_club" : "Diamond Club",
+  "item.droidsimplements.netherite_club" : "Netherite Club",
+
+  "item.droidsimplements.wooden_spear" : "Wooden Spear",
+  "item.droidsimplements.golden_spear" : "Golden Spear",
+  "item.droidsimplements.stone_spear" : "Stone Spear",
+  "item.droidsimplements.iron_spear" : "Iron Spear",
+  "item.droidsimplements.diamond_spear" : "Diamond Spear",
+  "item.droidsimplements.netherite_spear" : "Netherite Spear",
+
+  "item.droidsimplements.wooden_mining_hammer" : "Wooden Mining Hammer",
+  "item.droidsimplements.golden_mining_hammer" : "Golden Mining Hammer",
+  "item.droidsimplements.stone_mining_hammer" : "Stone Mining Hammer",
+  "item.droidsimplements.iron_mining_hammer" : "Iron Mining Hammer",
+  "item.droidsimplements.diamond_mining_hammer" : "Diamond Mining Hammer",
+  "item.droidsimplements.netherite_mining_hammer" : "Netherite Mining Hammer",
+
+  "item.droidsimplements.wooden_heavy_shovel" : "Wooden Heavy Shovel",
+  "item.droidsimplements.golden_heavy_shovel" : "Golden Heavy Shovel",
+  "item.droidsimplements.stone_heavy_shovel" : "Stone Heavy Shovel",
+  "item.droidsimplements.iron_heavy_shovel" : "Iron Heavy Shovel",
+  "item.droidsimplements.diamond_heavy_shovel" : "Diamond Heavy Shovel",
+  "item.droidsimplements.netherite_heavy_shovel" : "Netherite Heavy Shovel",
+
+  "creativetab.droidsimplements.mod_tab" : "Droid's Implements"
+}

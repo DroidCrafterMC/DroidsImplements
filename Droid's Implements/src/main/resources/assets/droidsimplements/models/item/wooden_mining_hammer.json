@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "droidsimplements:item/wooden_mining_hammer"
+  }
+}
