@@ -4,11 +4,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/BaseMDK_Forge1-21" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Droid's Implements" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/BaseMDK_Forge1-21" />
+            <option value="$PROJECT_DIR$/Droid's Implements" />
           </set>
         </option>
       </GradleProjectSettings>

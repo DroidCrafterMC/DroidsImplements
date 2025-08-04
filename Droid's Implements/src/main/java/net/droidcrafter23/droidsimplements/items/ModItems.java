@@ -168,6 +168,32 @@ public class ModItems {
             () -> new HeavyShovelItem(Tiers.NETHERITE, new Item.Properties().fireResistant()
                     .attributes(ShovelItem.createAttributes(Tiers.NETHERITE, 2, -2.8F))));
 
+    // Scythes
+
+    public static final RegistryObject<Item> WOOD_SCYTHE = ITEMS.register("wooden_scythe",
+            () -> new ScytheItem(Tiers.WOOD, new Item.Properties()
+                    .attributes(ScytheItem.createAttributes(Tiers.WOOD, 1, -2.3F))));
+
+    public static final RegistryObject<Item> GOLD_SCYTHE = ITEMS.register("golden_scythe",
+            () -> new ScytheItem(Tiers.GOLD, new Item.Properties()
+                    .attributes(ScytheItem.createAttributes(Tiers.GOLD, 1, -2.3F))));
+
+    public static final RegistryObject<Item> STONE_SCYTHE = ITEMS.register("stone_scythe",
+            () -> new ScytheItem(Tiers.STONE, new Item.Properties()
+                    .attributes(ScytheItem.createAttributes(Tiers.STONE, 1, -2.3F))));
+
+    public static final RegistryObject<Item> IRON_SCYTHE = ITEMS.register("iron_scythe",
+            () -> new ScytheItem(Tiers.IRON, new Item.Properties()
+                    .attributes(ScytheItem.createAttributes(Tiers.IRON, 1, -2.3F))));
+
+    public static final RegistryObject<Item> DIAMOND_SCYTHE = ITEMS.register("diamond_scythe",
+            () -> new ScytheItem(Tiers.DIAMOND, new Item.Properties()
+                    .attributes(ScytheItem.createAttributes(Tiers.DIAMOND, 1, -2.3F))));
+
+    public static final RegistryObject<Item> NETHERITE_SCYTHE = ITEMS.register("netherite_scythe",
+            () -> new ScytheItem(Tiers.NETHERITE, new Item.Properties()
+                    .attributes(ScytheItem.createAttributes(Tiers.NETHERITE, 1, -2.3F))));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

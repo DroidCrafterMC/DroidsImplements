@@ -41,5 +41,12 @@
   "item.droidsimplements.diamond_heavy_shovel" : "Diamond Heavy Shovel",
   "item.droidsimplements.netherite_heavy_shovel" : "Netherite Heavy Shovel",
 
+  "item.droidsimplements.wooden_scythe" : "Wooden Scythe",
+  "item.droidsimplements.golden_scythe" : "Golden Scythe",
+  "item.droidsimplements.stone_scythe" : "Stone Scythe",
+  "item.droidsimplements.iron_scythe" : "Iron Scythe",
+  "item.droidsimplements.diamond_scythe" : "Diamond Scythe",
+  "item.droidsimplements.netherite_scythe" : "Netherite Scythe",
+
   "creativetab.droidsimplements.mod_tab" : "Droid's Implements"
 }

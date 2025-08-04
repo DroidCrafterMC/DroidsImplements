@@ -60,6 +60,13 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.DIAMOND_HEAVY_SHOVEL.get());
                         output.accept(ModItems.NETHERITE_HEAVY_SHOVEL.get());
 
+                        output.accept(ModItems.WOOD_SCYTHE.get());
+                        output.accept(ModItems.GOLD_SCYTHE.get());
+                        output.accept(ModItems.STONE_SCYTHE.get());
+                        output.accept(ModItems.IRON_SCYTHE.get());
+                        output.accept(ModItems.DIAMOND_SCYTHE.get());
+                        output.accept(ModItems.NETHERITE_SCYTHE.get());
+
                     }).build());
 
     public static void register(IEventBus eventBus) {

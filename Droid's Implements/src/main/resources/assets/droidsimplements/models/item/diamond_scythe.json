@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "droidsimplements:item/diamond_scythe"
+  }
+}
